@@ -69,11 +69,11 @@
 
 國立清華大學電機系 碩0
 
-主力研究：Energy trading + Blockchain
+主力研究： Energy trading + Blockchain
 
 國立臺北科技大學 電子工程系計算機工程組
 
-GPA 3.71 目前還持續有書卷獎
+GPA 3.71 每年都有書卷獎
 
 TOEIC 大二測驗分數為 710
 
