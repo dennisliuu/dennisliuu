@@ -8,7 +8,7 @@
 - 💻 I’m willing to make side projects
 - 📈 I’m instered in stock, financial and blockchain technology
 - 🌏 I'm studing topic about renewable energy in my master degree
-- ⚡ I love to ride bike / motocycle / climbing / skateboard / rubik's cube
+- ⚡ I love to ride bike / motocycle / climbing / skateboard / rubik's cube and join conferences!
 
 ### Connect with me:
 
