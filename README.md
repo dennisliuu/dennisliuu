@@ -207,7 +207,8 @@ TOEIC 大二測驗分數為 710
 12. [工讀生] JSDC 2019
 13. [會眾] COSCUP 2020
 14. [會眾] HITCON 2020
-15. [會眾] DCON 2020
+15. [會眾] DataCON 2020
+15. [志工] JCCON 2020
 <!--END_SECTION:activity-->
 
 </details>
