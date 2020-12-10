@@ -67,7 +67,7 @@
 
 ### 🎒 Education
 
-國立清華大學電機系 碩0
+國立清華大學電機系 碩一 清華大學摩卡爾實驗室 MOCaRL Lab
 
 主力研究： Energy trading + Blockchain
 
