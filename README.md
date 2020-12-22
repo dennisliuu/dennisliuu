@@ -210,6 +210,7 @@ TOEIC 大二測驗分數為 710
 15. [會眾] DataCON 2020
 15. [志工] JCCON 2020
 16. [志工] CACS 2020 & iFUZZY 2020
+15. [會眾] LINE Tech plus 2020
 <!--END_SECTION:activity-->
 
 </details>
