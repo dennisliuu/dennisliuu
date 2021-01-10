@@ -6,7 +6,7 @@
 
 - 👨‍🎓 I’m currently studing my master degree in National Tsing Hua University in EE department
 - 💻 I’m willing to make side projects
-- 📈 I’m instered in stock, financial and blockchain technology
+- 📈 I’m instered in stock, financial, blockchain technology and cyber security.
 - 🌏 I'm studing topic about renewable energy in my master degree
 - ⚡ I love to ride bike / motocycle / climbing / skateboard / rubik's cube and join conferences!
 
@@ -67,7 +67,7 @@
 
 ### 🎒 Education
 
-國立清華大學電機系 碩一 清華大學摩卡爾實驗室 MOCaRL Lab
+國立清華大學電機系 碩一 清華大學
 
 主力研究： Energy trading + Blockchain
 
@@ -90,6 +90,10 @@ TOEIC 大二測驗分數為 710
 ⼤學就讀臺北科技⼤學電⼦⼯程系，廣泛的接觸如電⼦學、通訊以及在計算機組中學習各項程式語⾔。
 
 透過學校的專題實務課程，與學姐、學弟共同合作，實現學姐區塊鏈碩論。
+
+清大碩一生活，佔地利之便，每週前往交大網路安全策進會，並學習有關資安相關資訊
+
+並在清大校內修習網路安全、密碼學等課程
 
 ### Languages and Tools:
 
@@ -117,6 +121,8 @@ TOEIC 大二測驗分數為 710
 
 ### 💥 Side proejcts
 **畢業專題：Blockchain-based Paper submission system**
+> [github](https://github.com/dennisliuu/BPSS)
+>
 > 利用區塊鏈達到論文上傳時，能找出抄襲問題，並維護學術倫理
 > 
 > 整體架構為學姐的碩士論文
