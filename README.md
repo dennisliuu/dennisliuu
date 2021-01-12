@@ -209,7 +209,7 @@ TOEIC 大二測驗分數為 710
 9. [參與] 參與第11屆 iT邦幫忙鐵人賽 <<資料結構大便當>>
 9. [志工] PyConf 2019（助理主持人）
 10. [志工] JCConf 2019
-11. [會眾] Crosslink Taipei
+11. [會眾] Crosslink Taipei 2019
 12. [工讀生] JSDC 2019
 13. [會眾] COSCUP 2020
 14. [會眾] HITCON 2020
