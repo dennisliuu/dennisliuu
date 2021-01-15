@@ -113,6 +113,8 @@ TOEIC 大二測驗分數為 710
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" />
+<img align="left" alt="Terminal" width="26px" src="https://decentralized-id.com/assets/icons/didicon.png" />
 
 <br />
 <br />
@@ -189,6 +191,31 @@ TOEIC 大二測驗分數為 710
 > 當年做的 blog，不過後來都停止維護，並轉至 Medium
 >
 > 其中利用 Firebase 當作資料庫，也曾是我的作業分享區，提供同學下載我的作業
+
+---
+
+### :closed_book: Field
+
+**Web Front-end / Backend**
+
+> Vue.js / React.js / PWA
+
+**Blockchain**
+
+> 具 Smart contract / Truffle / Ganache / web3.js 經驗
+>
+> 也使用過 iota 作為研究方向
+
+**Cyber Security**
+
+> 2020/9 加入交大網路安全策進會社團，在其中研習資安相關技術
+> 
+> 2020/11 提交 Zeroday 漏洞回報：
+![](https://imgur.com/QFev5b1.png)
+>
+> 2021/1 取得 TeamT5 Security Camp 資安培訓營資格
+
+****
 
 ---
 
