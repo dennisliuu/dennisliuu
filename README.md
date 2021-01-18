@@ -219,7 +219,7 @@ TOEIC 大二測驗分數為 710
 
 ---
 
-<details>
+<details open>
   <summary>:star: Activity</summary>
   
 <!--START_SECTION:activity-->
