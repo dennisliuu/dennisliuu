@@ -12,6 +12,14 @@
 
 ### Connect with me:
 
+- +886921196446
+- dennisliuu@gmail.com
+- Telegram: xdennisliux
+- Line: xdennisliux
+- Medium: https://medium.com/wei-zen-liu
+- Github: @dennisliuu
+- CV: github.com/dennisliuu/dennisliuu
+
 [<img align="left" alt="weijenliu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="weijenliu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="weijenliu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
