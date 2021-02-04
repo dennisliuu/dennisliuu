@@ -245,6 +245,7 @@ TOEIC 大二測驗分數為 710
 16. [志工] CACS 2020 & iFUZZY 2020
 15. [會眾] LINE Tech plus 2020
 16. [參與] Bamboofox CTF 2021 144th/964
+17. [參與] TeamT5 Security Camp 2021 資安培訓營
 <!--END_SECTION:activity-->
 
 </details>
