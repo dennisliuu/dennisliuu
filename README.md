@@ -221,7 +221,7 @@ TOEIC 大二測驗分數為 710
 > 2020/11 提交 Zeroday 漏洞回報：
 ![](https://imgur.com/QFev5b1.png)
 >
-> 2021/1 取得 TeamT5 Security Camp 資安培訓營資格
+> 2021/1 取得 TeamT5 Security Camp 資安培訓營資格，並完成培訓
 
 ****
 
