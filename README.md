@@ -4,10 +4,10 @@
 
 ## I'm an aggressive student
 
-- 👨‍🎓 I’m currently studing my master degree in National Tsing Hua University in EE department
+- 👨‍🎓 I’m currently studying my master degree in National Tsing Hua University in EE department
 - 💻 I’m willing to make side projects
 - 📈 I’m instered in stock, financial, blockchain technology and cyber security.
-- 🌏 I'm studing topic about renewable energy in my master degree
+- 🌏 I'm studying topic about renewable energy in my master degree
 - ⚡ I love to ride bike / motocycle / climbing / skateboard / rubik's cube and join conferences!
 
 ### Connect with me:
@@ -18,6 +18,7 @@
 - Line: xdennisliux
 - Medium: https://medium.com/wei-zen-liu
 - Github: @dennisliuu
+- Linkedin: https://www.linkedin.com/in/%E5%8A%89-%E7%B6%AD%E4%BB%81-a72479b9/
 - CV: github.com/dennisliuu/dennisliuu
 
 [<img align="left" alt="weijenliu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
