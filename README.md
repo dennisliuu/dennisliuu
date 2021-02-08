@@ -13,7 +13,7 @@
 ### Connect with me:
 
 - +886921196446
-- dennisliuu@gmail.com
+- dennisliuu@protonmail.com
 - Telegram: xdennisliux
 - Line: xdennisliux
 - Medium: https://medium.com/wei-zen-liu
@@ -228,40 +228,34 @@ TOEIC 大二測驗分數為 710
 
 ---
 
-<details open>
-  <summary>:star: Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. [會眾] 2017 台灣人工智慧年會
-2. [會眾] GDG DevFest Taipei 2017
-3. [會眾] GDG DevFest Taipei 2018
-4. [會眾] COSCUP 2018
-5. [會眾] 2018 104 Hackathon，以 chatbot 分析使用者建議職缺
-5. [會眾] SITCON 2019
-6. 獲得北科與 university cincinnati 合開的課程「智慧感測與應用」（40/180人）
-6. [參與] Google ML Study Jam 2019 （初級）
-7. [志工] InfoSec 2019
-8. [志工] COSCUP 2019
-9. [參與] 參與第11屆 iT邦幫忙鐵人賽 <<資料結構大便當>>
-9. [志工] PyConf 2019（助理主持人）
-10. [志工] JCConf 2019
-11. [會眾] Crosslink Taipei 2019
-12. [工讀生] JSDC 2019
-13. [會眾] COSCUP 2020
-14. [會眾] HITCON 2020
-15. [會眾] DataCON 2020
-15. [志工] JCCON 2020
-16. [志工] CACS 2020 & iFUZZY 2020
-15. [會眾] LINE Tech plus 2020
-16. [參與] Bamboofox CTF 2021 144th/964
-17. [參與] TeamT5 Security Camp 2021 資安培訓營
-<!--END_SECTION:activity-->
 
-</details>
+:star: Activity
+
+|      | 競賽/培訓                                    | Conference 志工/工作人員  | Conference 會眾       |
+| ---- | -------------------------------------------- | ------------------------- | --------------------- |
+| 2021 | TeamT5 Security Camp 2021 資安培訓營         |                           |                       |
+|      | Bamboofox CTF 2021 144th/964                 |                           |                       |
+| 2020 |                                              | CACS 2020 & iFUZZY 2020   | LINE Tech plus 2020   |
+|      |                                              | JCCON 2020                | DataCON 2020          |
+|      |                                              |                           | HITCON 2020           |
+|      |                                              |                           | COSCUP 2020           |
+| 2019 |                                              | JSDC 2019                 | Crosslink Taipei 2019 |
+|      |                                              | JCConf 2019               |                       |
+|      | 參與第11屆 iT邦幫忙鐵人賽 <<資料結構大便當>> | PyConf 2019（助理主持人） |                       |
+|               |                |COSCUP 2019|
+|||InfoSec 2019|
+||Google ML Study Jam 2019||
+||獲得北科與 university cincinnati 合開的課程「智慧感測與應用」（40/180人）||
+| | | | SITCON 2019||
+|2018|2018 104 Hackathon，以 chatbot 分析使用者建議職缺||
+||||COSCUP 2018|
+||||GDG DevFest Taipei 2018|
+|2017|||GDG DevFest Taipei 2017|
+||||2017 台灣人工智慧年會|
 
 ---
 
-<details>
+<details open>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="dennisliuu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dennisliuu&show_icons=true&hide_border=true" />
