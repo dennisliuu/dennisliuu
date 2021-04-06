@@ -268,14 +268,11 @@ TOEIC 大二測驗分數為 710
 |2017|||GDG DevFest Taipei 2017|
 ||||2017 台灣人工智慧年會|
 
----
 
-<details open>
-  <summary>:zap: Github Stats</summary>
+![](https://github-readme-stats.vercel.app/api?username=dennisliuu&theme=material-palenight&show_icons=true&count_private=true)    
 
-  <img align="left" alt="dennisliuu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dennisliuu&show_icons=true&hide_border=true" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisliuu&theme=material-palenight&layout=compact&card_width=445)
 
-</details>
 
 [facebook]: https://www.facebook.com/dennis.liu.5095
 [gmail]: mailto:dennnisliuu@gmail.com
