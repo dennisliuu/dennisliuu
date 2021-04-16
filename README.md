@@ -247,7 +247,8 @@ TOEIC 大二測驗分數為 710
 
 |      | 競賽/培訓                                    | Conference 志工/工作人員  | Conference 會眾       |
 | ---- | -------------------------------------------- | ------------------------- | --------------------- |
-| 2021 |          |   COSCUP 2021 IT Team                        |                       |
+| 2021 |    PicoCTF 2021 333th/6XXX       |   COSCUP 2021 IT Team                        |                       |
+|      |          |   COSCUP 2021 IT Team                        |                       |
 | 2021 | TeamT5 Security Camp 2021 資安培訓營         |                           |                       |
 |      | Bamboofox CTF 2021 144th/964                 |                           |                       |
 | 2020 |                                              | CACS 2020 & iFUZZY 2020   | LINE Tech plus 2020   |
