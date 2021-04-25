@@ -31,25 +31,30 @@
 ---
 
 ### 💼 Job experience
-1. 北科大 Coding 365 活動之 Python 程式助教
+1. 25sprout frontend developer intern
+    -   時間：April 2021 - Now
+    -   地點：25sprout
+    -   任務：
+        - E2E Testing
+3. 北科大 Coding 365 活動之 Python 程式助教
     - 時間：Jun-Jul 2018
     - 地點：北科大
     - 任務：
         - 做投影片介紹基本資料結構、演算法
         - 協助學員程式上的困難或提供題目思路
-2. Arduino 與 Scratch 的助教與講師經驗
+4. Arduino 與 Scratch 的助教與講師經驗
     - 時間：Feb-Mar 2019
     - 地點：鄧公國小、YWCA
     - 任務：
         - 帶國小國中生完成 Arduino 自走車的組裝與程式編寫
         - 與思頂創課老師共同帶YWCA學生設計 Scratch 遊戲，遊戲主要以彈幕類為主
-3. 北科大生存遊戲社執行秘書
+5. 北科大生存遊戲社執行秘書
     - 時間：Sep 2018 - Sep 2019
     - 地點：北科大
     - 任務：
         - 完成社長指定之任務
         - 協助社團之文書作業
-4. Robert Bosch 廣播產品品管部門實習生
+6. Robert Bosch 廣播產品品管部門實習生
     - 時間：Mar 2019 - Mar 2020
     - 地點：Robert Bosch Taiwan Co. Ltd.
     - 任務：
@@ -58,7 +63,7 @@
         - 維護舊有機種，分析電路並改善
         - 各式喇吧測試，如 loading test, noise test
         - 數據資料分析、視覺化
-5. 墨雨設計 遠端實習生
+7. 墨雨設計 遠端實習生
     - 時間：Nov 2019 - Jan 2020
     - 地點：遠端
     - 任務：
