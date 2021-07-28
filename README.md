@@ -36,7 +36,7 @@
     -   地點：25sprout
     -   任務：
         - E2E Testing
-        - SurveyCake issue 
+        - SurveyCake bugfix 
 3. 北科大 Coding 365 活動之 Python 程式助教
     - 時間：Jun-Jul 2018
     - 地點：北科大
