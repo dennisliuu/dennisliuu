@@ -37,92 +37,69 @@
     -   任務：
         - E2E Testing
         - SurveyCake bugfix 
-3. 北科大 Coding 365 活動之 Python 程式助教
+3. NTUT Coding 365 Python programming teaching assistant
     - 時間：Jun-Jul 2018
-    - 地點：北科大
+    - 地點：NTUT
     - 任務：
-        - 做投影片介紹基本資料結構、演算法
-        - 協助學員程式上的困難或提供題目思路
-4. Arduino 與 Scratch 的助教與講師經驗
+        - Introducing data structure and algorithm
+        - Solve students' programming issues and giving advance
+4. Arduino speaker & Scratch TA
     - 時間：Feb-Mar 2019
-    - 地點：鄧公國小、YWCA
+    - 地點：Dengkong Elementary School、YWCA
     - 任務：
-        - 帶國小國中生完成 Arduino 自走車的組裝與程式編寫
-        - 與思頂創課老師共同帶YWCA學生設計 Scratch 遊戲，遊戲主要以彈幕類為主
-5. 北科大生存遊戲社執行秘書
-    - 時間：Sep 2018 - Sep 2019
-    - 地點：北科大
-    - 任務：
-        - 完成社長指定之任務
-        - 協助社團之文書作業
-6. Robert Bosch 廣播產品品管部門實習生
+        - Leading students build up robots and arduino programming
+        - Design and programming games with Scratch
+5. Robert Bosch Security and Safety Systems Intern
     - 時間：Mar 2019 - Mar 2020
     - 地點：Robert Bosch Taiwan Co. Ltd.
     - 任務：
-        - 針對供應商產品進行失效分析
-        - 測試檢驗新 release 的產品
-        - 維護舊有機種，分析電路並改善
-        - 各式喇吧測試，如 loading test, noise test
-        - 數據資料分析、視覺化
-7. 墨雨設計 遠端實習生
-    - 時間：Nov 2019 - Jan 2020
-    - 地點：遠端
-    - 任務：
-        - 線上課程
-        - 舊課程內容/簡介與影片更新與維護
-        - 課程社團經營
-        - 新課程企劃討論
-        - 協助社群與粉專經營(FB / Hahow課程社團 / 老闆來點扣汀)
-        - 蒐集整理設計專案相關資料、提案
-        - UI設計、視覺規劃與延伸
-        - 文書與企劃歸檔
-        - 專案程式相關支援（依能力評估參與程度）
-        - 影片剪輯(pr/ae)
-        - 廠商聯繫與溝通
+        - Analyze defect product
+        - Hardware testing for new releases product
+        - Data analysis, visualization for products
 
 ### 🎒 Education
 
-國立清華大學電機系 碩一 清華大學
+National Tsing Hua University EE graduate student
 
-主力研究： Energy trading + Blockchain
+主力研究： Energy trading + Blockchain + RL
 
-國立臺北科技大學 電子工程系計算機工程組
+National Taipei University of Technology EE
 
-GPA 3.71 每年都有書卷獎
+GPA 3.71 Academic Excellence Award every years.
 
-TOEIC 大二測驗分數為 710
+TOEIC 710 @ 2017/10
 
-從⾼⼯時代開始，我就對程式語⾔產⽣很⼤的興趣
+Since my high school days, I have been interested in programming languages.
 
-並如願以推甄⽅式進⼊⼤安⾼⼯資訊科，研修電⼦學與各類程式語⾔，並加⼊⼤安⾼⼯電腦研究社，利⽤課後時 間繼續學習。
+I was selected for admission to Taipei Municipal Da-An Vocational High School, where I studied electronics and various programming languages and joined the Taipei Municipal Da-An Vocational High School Computer Research Club to continue my studies after school.
 
-在北科⼤的求學⽣涯中，認真讀書並拿到書卷獎，也於⼆年級時加⼊實驗室，跟著教授學習各項新知。
+During his studies at NTUT, he studied hard and received the Book Award.
 
-大三時與同學共 同創⽴社團，⽣存遊戲社，並在其中擔任執⾏秘書，其任務囊括開會紀錄等任何⽂書上的任務，協助社⻑處理社務等。
+In my junior year, I founded a club with my classmates, the Survival Game Club, in which I served as the executive secretary, and my tasks included taking minutes of meetings and other written tasks, and helping the club with its affairs.
 
-在這個創社歷程中，我們歷經多次的開會，多次與學校的溝通與討論，投⼊相當多的時間，並學會與學校談判、爭取與協助活動的籌辦。
+During the process of starting the club, we went through many meetings, communicated and discussed with the school, and invested a lot of time, and learned to negotiate with the school, fight and help organize events.
 
-⼤學就讀臺北科技⼤學電⼦⼯程系，廣泛的接觸如電⼦學、通訊以及在計算機組中學習各項程式語⾔。
+In college, I attended the Department of Electrical Engineering at Taipei University of  Technology, where I had extensive exposure to electronics, communications, and learning various programming languages in the computer group.
 
-自大學以來，自學網頁前後端技術
+Since college, I have studied front-end and back-end web technologies
 
-前端框架多為 React.js 或 Vue.js; 後端則為 node.js / express.js 為主
+The front-end framework is mostly React.js or Vue.js; the back-end is mainly node.js / express.js
 
-其中 Next.js / Nuxt.js 也是常使用的框架之一
+Next.js / Nuxt.js is also one of the commonly used frameworks
 
-大學尾聲時接觸區塊鏈，並對於區塊鏈不論是鏈上技術或是幣圈的投資都相當有興趣
+At the end of university, I got interested in blockchain, both in on-chain technology and cryptocurrency investment.
 
-透過學校的專題實務課程，與學姐、學弟共同合作，實現學姐區塊鏈碩論。
+Through the school's practical course, I worked with my sister and brother to realize my sister's blockchain thesis.
 
-清大碩一生活，佔地利之便，每週前往交大網路安全策進會，並學習有關資安相關資訊
+As a master's degree student at Tsing-Hua University, I have the advantage of going to the Cyber Security Club of National Yang-Ming Chiao Tung University every week to learn information about cyber security.
 
-並在清大校內修習網路安全、密碼學等課程
+I also took courses on network security and cryptography at Tsing-Hua University.
 
-也很幸運能參與 TeamT5 在 2021 年的培訓。
+I was also lucky enough to participate in the TeamT5 training in 2021.
 
-在培訓過程中，對於 iot/firmware 的 vulnerability 非常有興趣，因此希望能在碩班過程中持續精進自己在 Firmware 實作與分析
+During the training, I am very interested in the vulnerability of IoT/firmware, so I hope to continue to refine my practice and analysis in Firmware during the master class.
 
-此外，對於區塊鏈的熱忱依然，因此也期許能在區塊鏈技術上有更多研究，並研究區塊鏈資安相關技術。
+In addition, I am still enthusiastic about blockchain, so I hope to do more research on blockchain technology and study blockchain information security-related technology.
 
 ### Languages and Tools:
 
@@ -154,72 +131,27 @@ TOEIC 大二測驗分數為 710
 **畢業專題：Blockchain-based Paper submission system**
 > [github](https://github.com/dennisliuu/BPSS)
 >
-> 利用區塊鏈達到論文上傳時，能找出抄襲問題，並維護學術倫理
+> Using blockchain as a platform for detecting plagiarism and provides security for journal paper uploading.
 > 
-> 整體架構為學姐的碩士論文
+> I was the develop for build up system
 > 
-> 而由我負責實現
-> 
-> 前端使用 React.js 後端使用 Koa.js 資料庫為 MongoDB
+> React.js as front-end, Koa.js as backend and MongoDB as our database.
 >
-> 整套系統跑在 Docker 上，並實現去中心化與分散式佈署
+> Running on distributed dockers
 > 
-> 區塊鏈的實做以 Python 完成，先將論文經過正規化處理，將語句以sha256，加上作者序與 timestamp，以 Merkle tree 概念串合，實做區塊鏈比對論文
+> Using sha256 and timestamp with Merkle tree and complete the concept of blockchain.
 >
-> 校內專題競賽**佳作**
+> Award: Honorable Mention.
 
-**智慧輪椅**
-> 以 Jetson nano + Rplidar
+**Smart wheelchair**
+> Jetson nano + Rplidar
 >
-> 做出可以自動前往導航位置的智慧輪椅
+> Using machine learning for making a smart wheelchair that can automatically go to the navigation position and obstacle avoidance.
 
 **Arduino-as3992-Tag-Reader**
 > [github](https://github.com/dennisliuu/Arduino-as3992-Tag-Reader)
 >
-> 由同學自行設計天線，並與我共同開發 Arduino 程式
->
-> 最後由我設計前端頁面，並透過 socket 達成將 Arduino 輸出傳至前端顯示
-
-**Fake http://tsuredure-project.jp/**
-> [github](https://github.com/dennisliuu/Fake-Tsuredure-offical-page)
->
-> 利用 Vue.js 刻 Tsuredure-project 官方網站
-
-**Lite-metatag**
-> [github](https://github.com/dennisliuu/Lite-metatag)
->
-> 利用 Vue.js 製作一個可以根據網站要求的 meta-tag
-
-**Android chat app**
-> [github](https://github.com/dennisliuu/Android_chat_app_practice)
->
-> 串接 Firebase 製作一個線上聊天的 App
-
-**Youtube-Downloader-Electron**
-> [github](https://github.com/dennisliuu/Youtube-Downloader-Electron)
->
-> 如名稱所寫，利用 Electron 加上 youtube-dl 製作一個帶有 UI 的 youture downloader
-
-**Mcdonald-for-fun**
-> [github](https://github.com/dennisliuu/Mcdonald-for-fun)
->
-> 利用 Vue.js 與 PWA 技術，做出一個可以來去麥當勞兌換想吃的東西的 Progressive Web App
-
-**Markdown-to-Html**
-> [github](https://github.com/dennisliuu/Markdown-to-Html)
->
-> 為當初教同學 Markdown 所製作
->
-> 支援即時預覽 Html 樣式與 Html tag的兩種觀看方式
-
-**dennisliuu.github.io / my-wife-is-yuigahama**
-> [github 1](https://github.com/dennisliuu/dennisliuu.github.io)
->
-> [github 2](https://github.com/dennisliuu/my-wife-is-yuigahama)
->
-> 當年做的 blog，不過後來都停止維護，並轉至 Medium
->
-> 其中利用 Firebase 當作資料庫，也曾是我的作業分享區，提供同學下載我的作業
+> Using web socket and Arduino for card reader
 
 ---
 
@@ -231,18 +163,14 @@ TOEIC 大二測驗分數為 710
 
 **Blockchain**
 
-> 具 Smart contract / Truffle / Ganache / web3.js 經驗
->
-> 也使用過 iota 作為研究方向
+> Smart contract / Truffle / Ganache / web3.js / IOTA
 
 **Cyber Security**
 
-> 2020/9 加入交大網路安全策進會社團，在其中研習資安相關技術
-> 
-> 2020/11 提交 Zeroday 漏洞回報：
+> 2020/11 Zeroday report：
 ![](https://imgur.com/QFev5b1.png)
 >
-> 2021/1 取得 TeamT5 Security Camp 資安培訓營資格，並完成培訓
+> 2021/1 TeamT5 Security Camp
 
 ****
 
