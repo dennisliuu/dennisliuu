@@ -115,7 +115,6 @@ In addition, I am still enthusiastic about blockchain, so I hope to do more rese
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" />
@@ -159,7 +158,7 @@ In addition, I am still enthusiastic about blockchain, so I hope to do more rese
 
 **Web Front-end / Backend**
 
-> Vue.js / React.js / PWA
+> Vue.js / React.js / PWA / E2E testing / CICD
 
 **Blockchain**
 
@@ -169,10 +168,11 @@ In addition, I am still enthusiastic about blockchain, so I hope to do more rese
 
 > 2020/11 Zeroday report：
 ![](https://imgur.com/QFev5b1.png)
->
-> 2021/1 TeamT5 Security Camp
 
-****
+> 臺灣好厲駭
+> Reverse APT Malware with Ghidra - 奧義科技
+> 內網滲透 - 中華資安
+> 數位鑑識課程 - 中華資安
 
 ---
 
@@ -211,11 +211,3 @@ In addition, I am still enthusiastic about blockchain, so I hope to do more rese
 ![](https://github-readme-stats.vercel.app/api?username=dennisliuu&theme=material-palenight&show_icons=true&count_private=true)    
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisliuu&theme=material-palenight&layout=compact&card_width=445)
-
-
-[facebook]: https://www.facebook.com/dennis.liu.5095
-[gmail]: mailto:dennnisliuu@gmail.com
-[linkedin]: https://www.linkedin.com/in/%E5%8A%89-%E7%B6%AD%E4%BB%81-a72479b9/
-[medium]: https://medium.com/wei-zen-liu
-[telegram]: xdennisliux
-[line]: xdennilux
