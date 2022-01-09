@@ -2,7 +2,7 @@
 
 [![Github Follow](https://img.shields.io/github/followers/dennisliuu?style=for-the-badge)](https://github.com/dennisliuu)
 
-## I'm an aggressive student
+## I'm an aggressive student, ISFJ
 
 - 👨‍🎓 I’m currently studying my master degree in National Tsing Hua University in EE department
 - 💻 I’m willing to make side projects
