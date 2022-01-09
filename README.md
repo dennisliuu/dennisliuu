@@ -177,8 +177,9 @@ In addition, I am still enthusiastic about blockchain, so I hope to do more rese
 
 |      | 競賽/培訓                                    | Conference 志工/工作人員  | Conference 會眾       |
 | ---- | -------------------------------------------- | ------------------------- | --------------------- |
+| 2022 | GCC Global Security Camp  (旁聽生)           |              |                     |
 | 2021 | 參與 2021 iThome 鐵人賽 <<自動化 End-End 測試 Nightwatch.js>> |              |                     |
-|      |      2021 臺灣好厲駭 高階資安實務培訓               |                          | |
+|      |      2021 臺灣好厲駭 高階資安實務培訓 (2021-2022)      |                          | |
 |      |      2021 My First CTF 前 10% (第5名）                |                          | |
 |      |                                             |                          | CYBERSEC 2021 臺灣資安大會|
 |      |    PicoCTF 2021 333th/6XXX       |                      |                       |
