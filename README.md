@@ -161,6 +161,8 @@ In addition, I am still enthusiastic about blockchain, so I hope to do more rese
 
 > 2020/11 Zeroday report：
 ![](https://imgur.com/QFev5b1.png)
+> 2021/01 Zeroday report:
+> https://zeroday.hitcon.org/vulnerability/ZD-2021-00962
 
 > 臺灣好厲駭
 > 
