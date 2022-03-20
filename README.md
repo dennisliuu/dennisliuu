@@ -205,10 +205,3 @@ In addition, I am still enthusiastic about blockchain, so I hope to do more rese
 ||||GDG DevFest Taipei 2018|
 |2017|||GDG DevFest Taipei 2017|
 ||||2017 台灣人工智慧年會|
-
-
-![](https://github-readme-stats.vercel.app/api?username=dennisliuu&theme=material-palenight&show_icons=true&count_private=true)    
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisliuu&theme=material-palenight&layout=compact&card_width=445)
-
-
