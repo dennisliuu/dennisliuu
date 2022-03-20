@@ -4,11 +4,11 @@
 
 ## I'm an aggressive student, ISFJ
 
-- 👨‍🎓 I’m currently studying my master degree in National Tsing Hua University in EE department
-- 💻 I’m willing to make side projects
-- 📈 I’m instered in stock, financial, blockchain technology and cyber security.
-- 🌏 I'm studying topic about renewable energy in my master degree
-- ⚡ I love to ride bike / motocycle / climbing / skateboard / rubik's cube and join conferences!
+- 👨‍🎓 I’m currently studying for my master's degree at National Tsing Hua University in the EE department
+- 💻 I’m willing to do side projects
+- 📈 I’m interested in stock, financial, blockchain technology, and cyber security.
+- 🌏 I'm studying topic about renewable energy in my master's degree
+- ⚡ I love to ride bike/motorcycle/climbing/skateboard / Rubik's cube and join conferences!
 
 ### Connect with me:
 
@@ -35,13 +35,13 @@
     - 地點：NTUT
     - 任務：
         - Introducing data structure and algorithm
-        - Solve students' programming issues and giving advance
+        - Solve students' programming issues and give advance
 4. Arduino speaker & Scratch TA
     - 時間：Feb-Mar 2019
     - 地點：Dengkong Elementary School、YWCA
     - 任務：
-        - Leading students build up robots and arduino programming
-        - Design and programming games with Scratch
+        - Leading students to build up robots and Arduino programming
+        - Design and program games with Scratch
 5. Robert Bosch Security and Safety Systems Intern
     - 時間：Mar 2019 - Mar 2020
     - 地點：Robert Bosch Taiwan Co. Ltd.
@@ -58,7 +58,7 @@ National Tsing Hua University EE graduate student
 
 National Taipei University of Technology EE
 
-GPA 3.71 Academic Excellence Award every years.
+GPA 3.71 Academic Excellence Award every year.
 
 TOEIC 710 @ 2017/10
 
@@ -68,17 +68,17 @@ I was selected for admission to Taipei Municipal Da-An Vocational High School, w
 
 During his studies at NTUT, he studied hard and received the Book Award.
 
-In my junior year, I founded a club with my classmates, the Survival Game Club, in which I served as the executive secretary, and my tasks included taking minutes of meetings and other written tasks, and helping the club with its affairs.
+In my junior year, I founded a club with my classmates, the Survival Game Club. I served as the executive secretary, and my tasks included taking minutes of meetings and other written assignments and helping the club with its affairs.
 
-During the process of starting the club, we went through many meetings, communicated and discussed with the school, and invested a lot of time, and learned to negotiate with the school, fight and help organize events.
+During starting the club, we went through many meetings, communicated and discussed with the school, invested a lot of time, and learned to negotiate with the school, fight and help organize events.
 
 In college, I attended the Department of Electrical Engineering at Taipei University of  Technology, where I had extensive exposure to electronics, communications, and learning various programming languages in the computer group.
 
-Since college, I have studied front-end and back-end web technologies
+Since college, I have studied front-end and back-end web technologies.
 
 The front-end framework is mostly React.js or Vue.js; the back-end is mainly node.js / express.js
 
-Next.js / Nuxt.js is also one of the commonly used frameworks
+Next.js / Nuxt.js is also one of the commonly used frameworks.
 
 At the end of university, I got interested in blockchain, both in on-chain technology and cryptocurrency investment.
 
@@ -123,27 +123,27 @@ In addition, I am still enthusiastic about blockchain, so I hope to do more rese
 **畢業專題：Blockchain-based Paper submission system**
 > [github](https://github.com/dennisliuu/BPSS)
 >
-> Using blockchain as a platform for detecting plagiarism and provides security for journal paper uploading.
+> Using blockchain to detect plagiarism and provides security for journal paper uploading.
 > 
-> I was the develop for build up system
+> I was the develop for build-up system
 > 
-> React.js as front-end, Koa.js as backend and MongoDB as our database.
+> React.js as front-end, Koa.js as backend, and MongoDB as our database.
 >
 > Running on distributed dockers
 > 
-> Using sha256 and timestamp with Merkle tree and complete the concept of blockchain.
+> Using sha256 and timestamp with Merkle tree and complete the blockchain concept.
 >
 > Award: Honorable Mention.
 
 **Smart wheelchair**
 > Jetson nano + Rplidar
 >
-> Using machine learning for making a smart wheelchair that can automatically go to the navigation position and obstacle avoidance.
+> Using machine learning for making an intelligent wheelchair that can automatically go to the navigation position and obstacle avoidance.
 
 **Arduino-as3992-Tag-Reader**
 > [github](https://github.com/dennisliuu/Arduino-as3992-Tag-Reader)
 >
-> Using web socket and Arduino for card reader
+> Using web socket and Arduino for a card reader
 
 ---
 
@@ -210,3 +210,5 @@ In addition, I am still enthusiastic about blockchain, so I hope to do more rese
 ![](https://github-readme-stats.vercel.app/api?username=dennisliuu&theme=material-palenight&show_icons=true&count_private=true)    
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisliuu&theme=material-palenight&layout=compact&card_width=445)
+
+
