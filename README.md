@@ -25,7 +25,7 @@
 
 ### 💼 Job experience
 1. 25sprout frontend developer intern
-    -   時間：April 2021 - Now
+    -   時間：April 2021 - March 2022
     -   地點：25sprout
     -   任務：
         - E2E Testing
