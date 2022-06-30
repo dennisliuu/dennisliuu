@@ -82,7 +82,7 @@ Next.js / Nuxt.js is also one of the commonly used frameworks.
 
 At the end of university, I got interested in blockchain, both in on-chain technology and cryptocurrency investment.
 
-Through the school's practical course, I worked with my sister and brother to realize my sister's blockchain thesis.
+Through the school's practical course, I worked with my lab member to realize the blockchain thesis.
 
 As a master's degree student at Tsing-Hua University, I have the advantage of going to the Cyber Security Club of National Yang-Ming Chiao Tung University every week to learn information about cyber security.
 
@@ -177,31 +177,34 @@ In addition, I am still enthusiastic about blockchain, so I hope to do more rese
 
 :star: Activity
 
-|      | 競賽/培訓                                    | Conference 志工/工作人員  | Conference 會眾       |
-| ---- | -------------------------------------------- | ------------------------- | --------------------- |
-| 2022 | GCC Global Security Camp  (旁聽生)           |              |                     |
-| 2021 | 參與 2021 iThome 鐵人賽 <<自動化 End-End 測試 Nightwatch.js>> |              |                     |
-|      |      2021 臺灣好厲駭 高階資安實務培訓 (2021-2022)      |                          | |
-|      |      2021 My First CTF 前 10% (第5名）                |                          | |
-|      |                                             |                          | CYBERSEC 2021 臺灣資安大會|
-|      |    PicoCTF 2021 333th/6XXX       |                      |                       |
-|      |          |   COSCUP 2021 IT Team - frontend                       |                       |
-|      | TeamT5 Security Camp 2021 資安培訓營         |                           |                       |
-|      | Bamboofox CTF 2021 144th/964                 |                           |                       |
-| 2020 |                                              | CACS 2020 & iFUZZY 2020   | LINE Tech plus 2020   |
-|      |                                              | JCCON 2020                | DataCON 2020          |
-|      |                                              |                           | HITCON 2020           |
-|      |                                              |                           | COSCUP 2020           |
-| 2019 |                                              | JSDC 2019                 | Crosslink Taipei 2019 |
-|      |                                              | JCConf 2019               |                       |
-|      | 參與第11屆 iT邦幫忙鐵人賽 <<資料結構大便當>> | PyConf 2019（助理主持人） |                       |
-|               |                |COSCUP 2019|
-|||InfoSec 2019|
-||Google ML Study Jam 2019||
-||獲得北科與 university cincinnati 合開的課程「智慧感測與應用」（40/180人）||
-| | | | SITCON 2019||
-|2018|2018 104 Hackathon，以 chatbot 分析使用者建議職缺||
-||||COSCUP 2018|
-||||GDG DevFest Taipei 2018|
-|2017|||GDG DevFest Taipei 2017|
-||||2017 台灣人工智慧年會|
+| Year | 競賽/培訓                                               | Conference 志工/工作人員             | Conference 會眾                               |
+| ---- | --------------------------------------------------- | ------------------------------ | ------------------------------------------- |
+| 2022 | 111年度新型態資安暑期課程 (AIS3 2022)                          |                                |                                             |
+|      |                                                     |                                | LINE Taiwan Developers Recruitment Day 2022 |
+|      | GCC Global Security Camp  (旁聽生)                     |                                |                                             |
+| 2021 | 參與 2021 iThome 鐵人賽 <<自動化 End-End 測試 Nightwatch.js>> |                                |                                             |
+|      |                                                     |                                | HITCON 2021                                 |
+|      | 2021 臺灣好厲駭 高階資安實務培訓 (2021-2022)                     |                                |                                             |
+|      | 2021 My First CTF 前 10% (第5名）                       |                                |                                             |
+|      |                                                     |                                | CYBERSEC 2021 臺灣資安大會                        |
+|      | PicoCTF 2021 333th/6XXX                             |                                |                                             |
+|      |                                                     | COSCUP 2021 IT Team - frontend |                                             |
+|      | TeamT5 Security Camp 2021 資安培訓營                     |                                |                                             |
+|      | Bamboofox CTF 2021 144th/964                        |                                |                                             |
+| 2020 |                                                     | CACS 2020 & iFUZZY 2020        | LINE Tech plus 2020                         |
+|      |                                                     | JCCON 2020                     | DataCON 2020                                |
+|      |                                                     |                                | HITCON 2020                                 |
+|      |                                                     |                                | COSCUP 2020                                 |
+| 2019 |                                                     | JSDC 2019                      | Crosslink Taipei 2019                       |
+|      |                                                     | JCConf 2019                    |                                             |
+|      | 參與第11屆 iT邦幫忙鐵人賽 <<資料結構大便當>>                         | PyConf 2019（助理主持人）             |                                             |
+|      |                                                     | COSCUP 2019                    |
+|      |                                                     | InfoSec 2019                   |
+|      | Google ML Study Jam 2019                            |                                |
+|      | 獲得北科與 university cincinnati 合開的課程「智慧感測與應用」（40/180人） |                                |
+|      |                                                     |                                | SITCON 2019                                 |  |
+| 2018 | 2018 104 Hackathon，以 chatbot 分析使用者建議職缺              |                                |
+|      |                                                     |                                | COSCUP 2018                                 |
+|      |                                                     |                                | GDG DevFest Taipei 2018                     |
+| 2017 |                                                     |                                | GDG DevFest Taipei 2017                     |
+|      |                                                     |                                | 2017 台灣人工智慧年會                               |
