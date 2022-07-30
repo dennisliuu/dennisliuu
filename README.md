@@ -179,7 +179,7 @@ In addition, I am still enthusiastic about blockchain, so I hope to do more rese
 
 | Year | 競賽/培訓                                               | Conference 志工/工作人員             | Conference 會眾                               |
 | ---- | --------------------------------------------------- | ------------------------------ | ------------------------------------------- |
-| 2022 | 111年度新型態資安暑期課程 (AIS3 2022)                          |                                |                                             |
+| 2022 | 111年度新型態資安暑期課程 - 車載安全 (AIS3 2022)         |                                |                                             |
 |      |                                                     |                                | LINE Taiwan Developers Recruitment Day 2022 |
 |      | GCC Global Security Camp  (旁聽生)                     |                                |                                             |
 | 2021 | 參與 2021 iThome 鐵人賽 <<自動化 End-End 測試 Nightwatch.js>> |                                |                                             |
