@@ -2,14 +2,6 @@
 
 [![Github Follow](https://img.shields.io/github/followers/dennisliuu?style=for-the-badge)](https://github.com/dennisliuu)
 
-## I'm an aggressive student, ISFJ
-
-- 👨‍🎓 I’m currently studying for my master's degree at National Tsing Hua University in the EE department
-- 💻 I’m willing to do side projects
-- 📈 I’m interested in stock, financial, blockchain technology, and cyber security.
-- 🌏 I'm studying topic about renewable energy in my master's degree
-- ⚡ I love to ride bike/motorcycle/climbing/skateboard / Rubik's cube and join conferences!
-
 ### Connect with me:
 
 - Medium: https://medium.com/wei-zen-liu
