@@ -12,10 +12,6 @@
 
 ### Connect with me:
 
-- +886921196446
-- dennisliuu@protonmail.com
-- Telegram: dennisliuu
-- Line: xdennisliux
 - Medium: https://medium.com/wei-zen-liu
 - Github: @dennisliuu
 - Linkedin: https://www.linkedin.com/in/%E5%8A%89-%E7%B6%AD%E4%BB%81-a72479b9/
@@ -24,6 +20,13 @@
 ---
 
 ### 💼 Job experience
+1. Delta - DRC CPS3C
+    -   時間：March 2023 - Now
+    -   地點：Delta
+    -   任務：
+        - Firmware analysis automation
+        - Firmware SBOM detector
+        - Full stack developer 
 1. 25sprout frontend developer intern
     -   時間：April 2021 - March 2022
     -   地點：25sprout
@@ -177,6 +180,8 @@ https://zeroday.hitcon.org/user/dennisliuu/vulnerability
 
 | Year | 競賽/培訓                                               | Conference 志工/工作人員             | Conference 會眾                               |
 | ---- | --------------------------------------------------- | ------------------------------ | ------------------------------------------- |
+| 2023 |                                                     |                                | CYBERSEC 2023                                 |
+|      | Certified Ethical Hacker (CEH)                      |                                |                                              |
 | 2022 |                                                     |                                | HITCON 2022                                 |
 |      | 2022 臺灣好厲駭 (2022-2023)                              |                                |                                             |
 |      |                                                     |                                | CYBERSEC 2022                               |
