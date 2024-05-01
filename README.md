@@ -1,7 +1,5 @@
 ### Hi there, I'm Dennis (劉維仁)
 
-[![Github Follow](https://img.shields.io/github/followers/dennisliuu?style=for-the-badge)](https://github.com/dennisliuu)
-
 ### Connect with me:
 
 - Medium: https://medium.com/wei-zen-liu
@@ -12,13 +10,18 @@
 ---
 
 ### 💼 Job experience
-1. Delta - DRC CPS3C
+1. DELTA ELECTRONICS,INC. - DRC OT-Security
     -   時間：March 2023 - Now
-    -   地點：Delta
+    -   地點：Neihu, Taipei
     -   任務：
-        - Firmware analysis automation
-        - Firmware SBOM detector
-        - Full stack developer 
+        - Firmware analysis automation 
+        - Full-stake developer
+        - Implement automation web-based tool for monitor security measures: tracking CVEs, generate SBoM, scanning sensitive information for firmware analysis, etc.
+        - Support ARM, other embedded
+        - Tech stack: React.js, Python, golang, shell script, MongoDB, rabbitMQ, binwalk, SAML and IDA Pro
+        - Security scanning tools: Nessus, Burp suite and OWASP ZAP
+        - Security code review
+        - Provide intranet version and AWS cloud version
 1. 25sprout frontend developer intern
     -   時間：April 2021 - March 2022
     -   地點：25sprout
@@ -57,38 +60,6 @@ GPA 3.71 Academic Excellence Award every year.
 
 TOEIC 710 @ 2017/10
 
-Since my high school days, I have been interested in programming languages.
-
-I was selected for admission to Taipei Municipal Da-An Vocational High School, where I studied electronics and various programming languages and joined the Taipei Municipal Da-An Vocational High School Computer Research Club to continue my studies after school.
-
-During his studies at NTUT, he studied hard and received the Book Award.
-
-In my junior year, I founded a club with my classmates, the Survival Game Club. I served as the executive secretary, and my tasks included taking minutes of meetings and other written assignments and helping the club with its affairs.
-
-During starting the club, we went through many meetings, communicated and discussed with the school, invested a lot of time, and learned to negotiate with the school, fight and help organize events.
-
-In college, I attended the Department of Electrical Engineering at Taipei University of  Technology, where I had extensive exposure to electronics, communications, and learning various programming languages in the computer group.
-
-Since college, I have studied front-end and back-end web technologies.
-
-The front-end framework is mostly React.js or Vue.js; the back-end is mainly node.js / express.js
-
-Next.js / Nuxt.js is also one of the commonly used frameworks.
-
-At the end of university, I got interested in blockchain, both in on-chain technology and cryptocurrency investment.
-
-Through the school's practical course, I worked with my lab member to realize the blockchain thesis.
-
-As a master's degree student at Tsing-Hua University, I have the advantage of going to the Cyber Security Club of National Yang-Ming Chiao Tung University every week to learn information about cyber security.
-
-I also took courses on network security and cryptography at Tsing-Hua University.
-
-I was also lucky enough to participate in the TeamT5 training in 2021.
-
-During the training, I am very interested in the vulnerability of IoT/firmware, so I hope to continue to refine my practice and analysis in Firmware during the master class.
-
-In addition, I am still enthusiastic about blockchain, so I hope to do more research on blockchain technology and study blockchain information security-related technology.
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -113,60 +84,6 @@ In addition, I am still enthusiastic about blockchain, so I hope to do more rese
 <br />
 
 ---
-
-### 💥 Side proejcts
-**畢業專題：Blockchain-based Paper submission system**
-> [github](https://github.com/dennisliuu/BPSS)
->
-> Using blockchain to detect plagiarism and provides security for journal paper uploading.
-> 
-> I was the develop for build-up system
-> 
-> React.js as front-end, Koa.js as backend, and MongoDB as our database.
->
-> Running on distributed dockers
-> 
-> Using sha256 and timestamp with Merkle tree and complete the blockchain concept.
->
-> Award: Honorable Mention.
-
-**Smart wheelchair**
-> Jetson nano + Rplidar
->
-> Using machine learning for making an intelligent wheelchair that can automatically go to the navigation position and obstacle avoidance.
-
-**Arduino-as3992-Tag-Reader**
-> [github](https://github.com/dennisliuu/Arduino-as3992-Tag-Reader)
->
-> Using web socket and Arduino for a card reader
-
----
-
-### :closed_book: Field
-
-**Web Front-end / Backend**
-
-> Vue.js / React.js / PWA / E2E testing / CICD
-
-**Blockchain**
-
-> Smart contract / Truffle / Ganache / web3.js / IOTA
-
-**Cyber Security**
-
-> Zeroday report：
-https://zeroday.hitcon.org/user/dennisliuu/vulnerability
-
-> 臺灣好厲駭
-> 
-> > Reverse APT Malware with Ghidra - 奧義科技
-> > 
-> > 內網滲透 - 中華資安
-> > 
-> > 數位鑑識課程 - 中華資安
-
----
-
 
 :star: Activity
 
