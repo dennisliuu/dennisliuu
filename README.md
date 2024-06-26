@@ -6,7 +6,9 @@
 - Github: @dennisliuu
 - Linkedin: https://www.linkedin.com/in/%E5%8A%89-%E7%B6%AD%E4%BB%81-a72479b9/
 - CV: github.com/dennisliuu/dennisliuu
-
+- Mobile: 0921196446
+- Email: dennisliuu@gmail.com
+- 
 ---
 
 ### 💼 Job experience
